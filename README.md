@@ -6,7 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0001-two-sum) |
+| [0330-patching-array](https://github.com/vakadamukesh/LeetCode/tree/master/0330-patching-array) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0001-two-sum) |
+# Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/vakadamukesh/LeetCode/tree/master/0330-patching-array) |
