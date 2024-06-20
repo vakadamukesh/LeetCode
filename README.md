@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/vakadamukesh/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vakadamukesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vakadamukesh/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [3183-find-the-k-or-of-an-array](https://github.com/vakadamukesh/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 # Hash Table
 |  |
 | ------- |
@@ -40,3 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/vakadamukesh/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vakadamukesh/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+# Bit Manipulation
+|  |
+| ------- |
+| [3183-find-the-k-or-of-an-array](https://github.com/vakadamukesh/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
