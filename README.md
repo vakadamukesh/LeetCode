@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vakadamukesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vakadamukesh/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vakadamukesh/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/vakadamukesh/LeetCode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3183-find-the-k-or-of-an-array](https://github.com/vakadamukesh/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 # Hash Table
 |  |
@@ -47,3 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3183-find-the-k-or-of-an-array](https://github.com/vakadamukesh/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
+# Dynamic Programming
+|  |
+| ------- |
+| [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/vakadamukesh/LeetCode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
