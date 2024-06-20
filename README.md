@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/vakadamukesh/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vakadamukesh/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/vakadamukesh/LeetCode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vakadamukesh/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3183-find-the-k-or-of-an-array](https://github.com/vakadamukesh/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 # Hash Table
 |  |
@@ -47,8 +48,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Bit Manipulation
 |  |
 | ------- |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vakadamukesh/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3183-find-the-k-or-of-an-array](https://github.com/vakadamukesh/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 # Dynamic Programming
 |  |
 | ------- |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/vakadamukesh/LeetCode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vakadamukesh/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
+# Tree
+|  |
+| ------- |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vakadamukesh/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
+# Depth-First Search
+|  |
+| ------- |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vakadamukesh/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
