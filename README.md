@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/vakadamukesh/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vakadamukesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vakadamukesh/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/vakadamukesh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 # Sorting
 |  |
 | ------- |
@@ -71,3 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/vakadamukesh/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vakadamukesh/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/vakadamukesh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+# String
+|  |
+| ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/vakadamukesh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+# Prefix Sum
+|  |
+| ------- |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/vakadamukesh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
