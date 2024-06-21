@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vakadamukesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vakadamukesh/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/vakadamukesh/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/vakadamukesh/LeetCode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/vakadamukesh/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vakadamukesh/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/vakadamukesh/LeetCode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0330-patching-array](https://github.com/vakadamukesh/LeetCode/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/vakadamukesh/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/vakadamukesh/LeetCode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/vakadamukesh/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vakadamukesh/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 # Math
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3044-minimum-operations-to-collect-elements](https://github.com/vakadamukesh/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/vakadamukesh/LeetCode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vakadamukesh/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3183-find-the-k-or-of-an-array](https://github.com/vakadamukesh/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 # Dynamic Programming
