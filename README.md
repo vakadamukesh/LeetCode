@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0001-two-sum) |
 | [0330-patching-array](https://github.com/vakadamukesh/LeetCode/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/vakadamukesh/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1046-max-consecutive-ones-iii](https://github.com/vakadamukesh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/vakadamukesh/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vakadamukesh/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vakadamukesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/vakadamukesh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/vakadamukesh/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1046-max-consecutive-ones-iii](https://github.com/vakadamukesh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vakadamukesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vakadamukesh/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vakadamukesh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/vakadamukesh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/vakadamukesh/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vakadamukesh/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vakadamukesh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -80,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/vakadamukesh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vakadamukesh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
