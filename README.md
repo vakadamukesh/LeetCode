@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/vakadamukesh/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/vakadamukesh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/vakadamukesh/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vakadamukesh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vakadamukesh/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vakadamukesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vakadamukesh/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0001-two-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vakadamukesh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/vakadamukesh/LeetCode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/vakadamukesh/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 # Greedy
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/vakadamukesh/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vakadamukesh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Two Pointers
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/vakadamukesh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/vakadamukesh/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vakadamukesh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vakadamukesh/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vakadamukesh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 # String
