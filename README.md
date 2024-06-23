@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0001-two-sum) |
 | [0330-patching-array](https://github.com/vakadamukesh/LeetCode/tree/master/0330-patching-array) |
+| [0790-global-and-local-inversions](https://github.com/vakadamukesh/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [0853-most-profit-assigning-work](https://github.com/vakadamukesh/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/vakadamukesh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/vakadamukesh/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/vakadamukesh/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0790-global-and-local-inversions](https://github.com/vakadamukesh/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vakadamukesh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Two Pointers
 |  |
