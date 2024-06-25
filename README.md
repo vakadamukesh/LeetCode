@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0930-all-possible-full-binary-trees](https://github.com/vakadamukesh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vakadamukesh/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/vakadamukesh/LeetCode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vakadamukesh/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/vakadamukesh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -136,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vakadamukesh/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vakadamukesh/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/vakadamukesh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -152,3 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/vakadamukesh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+# Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
