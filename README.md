@@ -81,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Tree
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vakadamukesh/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 # Depth-First Search
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vakadamukesh/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 # Sliding Window
 |  |
@@ -127,3 +129,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vakadamukesh/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
