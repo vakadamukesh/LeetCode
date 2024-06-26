@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/vakadamukesh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/vakadamukesh/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vakadamukesh/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/vakadamukesh/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vakadamukesh/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vakadamukesh/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vakadamukesh/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vakadamukesh/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/vakadamukesh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/vakadamukesh/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vakadamukesh/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/vakadamukesh/LeetCode/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vakadamukesh/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/vakadamukesh/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/vakadamukesh/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/vakadamukesh/LeetCode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/vakadamukesh/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 # Counting
 |  |
