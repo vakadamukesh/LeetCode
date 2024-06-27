@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0330-patching-array](https://github.com/vakadamukesh/LeetCode/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/vakadamukesh/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1285-balance-a-binary-search-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/vakadamukesh/LeetCode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/vakadamukesh/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vakadamukesh/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -92,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/vakadamukesh/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/vakadamukesh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vakadamukesh/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 # Depth-First Search
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/vakadamukesh/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/vakadamukesh/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 # Sliding Window
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vakadamukesh/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vakadamukesh/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/vakadamukesh/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/vakadamukesh/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Recursion
 |  |
 | ------- |
@@ -168,3 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/vakadamukesh/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
