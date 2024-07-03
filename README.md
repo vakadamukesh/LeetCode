@@ -190,5 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/vakadamukesh/LeetCode/tree/master/1293-three-consecutive-odds) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
