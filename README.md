@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vakadamukesh/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/vakadamukesh/LeetCode/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vakadamukesh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vakadamukesh/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
