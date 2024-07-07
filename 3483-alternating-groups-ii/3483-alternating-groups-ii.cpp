@@ -6,8 +6,8 @@ public:
         }
         int n=colors.size();
         vector<int>ind(n,0);
-        for(int i=0;i<n;i++){
-            if(colors[i]==colors[(i+1)%n]){
+        for(int i=0;i<(n-1);i++){
+            if(colors[i]==colors[(i+1)]){
                 ind[i]++;
             }
         }
