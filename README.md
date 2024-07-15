@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/vakadamukesh/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/vakadamukesh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vakadamukesh/LeetCode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/0493-reverse-pairs) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/vakadamukesh/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/vakadamukesh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/vakadamukesh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vakadamukesh/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/vakadamukesh/LeetCode/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vakadamukesh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Binary Indexed Tree
