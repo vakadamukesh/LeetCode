@@ -1,44 +1,17 @@
 class Solution {
 public:
-int minimumElementsUtil(vector<int>& arr, int ind, int T, vector<vector<int>>& dp){
+    int coinChange(vector<int>& coins, int amount) {
+        vector<int> minCoins(amount + 1, amount + 1);
+        minCoins[0] = 0;
 
-    // Base case: If we're at the first element
-    if(ind == 0){
-        // Check if the target sum is divisible by the first element
-        if(T % arr[0] == 0)
-            return T / arr[0]; // If yes, return the quotient as the answer
-        else
-            return 1e9; // Otherwise, return a very large value to indicate it's not possible
-    }
-    
-    // If the result for this index and target sum is already calculated, return it
-    if(dp[ind][T] != -1)
-        return dp[ind][T];
-        
-    // Calculate the minimum elements needed without taking the current element
-    int notTaken = 0 + minimumElementsUtil(arr, ind - 1, T, dp);
-    
-    // Calculate the minimum elements needed by taking the current element
-    int taken = 1e9; // Initialize 'taken' to a very large value
-    if(arr[ind] <= T)
-        taken = 1 + minimumElementsUtil(arr, ind, T - arr[ind], dp);
-        
-    // Store the minimum of 'notTaken' and 'taken' in the DP array and return it
-    return dp[ind][T] = min(notTaken, taken);
-}
+        for (int i = 1; i <= amount; i++) {
+            for (int j = 0; j < coins.size(); j++) {
+                if (i - coins[j] >= 0) {
+                    minCoins[i] = min(minCoins[i], 1 + minCoins[i - coins[j]]);
+                }
+            }
+        }
 
-    int coinChange(vector<int>& arr, int T) {
-         int n = arr.size();
-    
-    // Create a DP (Dynamic Programming) table with n rows and T+1 columns and initialize it with -1
-    vector<vector<int>> dp(n, vector<int>(T + 1, -1));
-    
-    // Call the utility function to calculate the answer
-    int ans =  minimumElementsUtil(arr, n - 1, T, dp);
-    
-    // If 'ans' is still very large, it means it's not possible to form the target sum
-    if(ans >= 1e9)
-        return -1;
-    return ans; // Return the minimum number of elem
+        return minCoins[amount] != amount + 1 ? minCoins[amount] : -1;        
     }
 };
