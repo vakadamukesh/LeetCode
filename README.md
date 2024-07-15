@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vakadamukesh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vakadamukesh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/vakadamukesh/LeetCode/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0474-ones-and-zeroes) |
 ## Two Pointers
 |  |
@@ -339,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vakadamukesh/LeetCode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/vakadamukesh/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
