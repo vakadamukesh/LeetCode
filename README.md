@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vakadamukesh/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vakadamukesh/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vakadamukesh/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vakadamukesh/LeetCode/tree/master/0056-merge-intervals) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vakadamukesh/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vakadamukesh/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vakadamukesh/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vakadamukesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/vakadamukesh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vakadamukesh/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vakadamukesh/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
