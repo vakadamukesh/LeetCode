@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/vakadamukesh/LeetCode/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/vakadamukesh/LeetCode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vakadamukesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vakadamukesh/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/vakadamukesh/LeetCode/tree/master/0091-decode-ways) |
+| [0402-remove-k-digits](https://github.com/vakadamukesh/LeetCode/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vakadamukesh/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vakadamukesh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/vakadamukesh/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/vakadamukesh/LeetCode/tree/master/0402-remove-k-digits) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vakadamukesh/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vakadamukesh/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/vakadamukesh/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/vakadamukesh/LeetCode/tree/master/0402-remove-k-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
