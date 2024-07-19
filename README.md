@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vakadamukesh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vakadamukesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/vakadamukesh/LeetCode/tree/master/1803-average-waiting-time) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vakadamukesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vakadamukesh/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0229-majority-element-ii) |
 | [0740-delete-and-earn](https://github.com/vakadamukesh/LeetCode/tree/master/0740-delete-and-earn) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Matrix
 |  |
 | ------- |
