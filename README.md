@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/vakadamukesh/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/vakadamukesh/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/vakadamukesh/LeetCode/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/vakadamukesh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vakadamukesh/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/vakadamukesh/LeetCode/tree/master/0221-maximal-square) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/vakadamukesh/LeetCode/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/vakadamukesh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/vakadamukesh/LeetCode/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vakadamukesh/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -450,4 +452,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/vakadamukesh/LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/vakadamukesh/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
