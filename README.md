@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vakadamukesh/LeetCode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/vakadamukesh/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vakadamukesh/LeetCode/tree/master/0056-merge-intervals) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/vakadamukesh/LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vakadamukesh/LeetCode/tree/master/0131-palindrome-partitioning) |
