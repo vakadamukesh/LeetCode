@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vakadamukesh/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/vakadamukesh/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vakadamukesh/LeetCode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/vakadamukesh/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vakadamukesh/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vakadamukesh/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vakadamukesh/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/vakadamukesh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vakadamukesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/vakadamukesh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vakadamukesh/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/vakadamukesh/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/vakadamukesh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vakadamukesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vakadamukesh/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0229-majority-element-ii) |
