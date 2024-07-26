@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vakadamukesh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vakadamukesh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vakadamukesh/LeetCode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/vakadamukesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/vakadamukesh/LeetCode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/vakadamukesh/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vakadamukesh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vakadamukesh/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vakadamukesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/vakadamukesh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/vakadamukesh/LeetCode/tree/master/0740-delete-and-earn) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vakadamukesh/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vakadamukesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/0493-reverse-pairs) |
 ## Greedy
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vakadamukesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vakadamukesh/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vakadamukesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/vakadamukesh/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vakadamukesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vakadamukesh/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vakadamukesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
@@ -458,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vakadamukesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 ## Backtracking
 |  |
@@ -474,4 +480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/vakadamukesh/LeetCode/tree/master/0526-beautiful-arrangement) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vakadamukesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vakadamukesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
