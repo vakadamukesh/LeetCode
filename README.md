@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vakadamukesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vakadamukesh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/vakadamukesh/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/vakadamukesh/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1803-average-waiting-time](https://github.com/vakadamukesh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vakadamukesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vakadamukesh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/vakadamukesh/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vakadamukesh/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/vakadamukesh/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vakadamukesh/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/vakadamukesh/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/vakadamukesh/LeetCode/tree/master/0402-remove-k-digits) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vakadamukesh/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/vakadamukesh/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vakadamukesh/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
 ## Memoization
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/vakadamukesh/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/vakadamukesh/LeetCode/tree/master/0402-remove-k-digits) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/vakadamukesh/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
