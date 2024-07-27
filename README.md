@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vakadamukesh/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vakadamukesh/LeetCode/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0047-permutations-ii) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/vakadamukesh/LeetCode/tree/master/0051-n-queens) |
