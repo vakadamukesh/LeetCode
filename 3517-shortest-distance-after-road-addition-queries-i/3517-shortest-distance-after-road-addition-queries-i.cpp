@@ -1,35 +1,47 @@
 class Solution {
 public:
-    int dijkstra(int V, vector<vector<int>> adj[], int S)
-    {
-        vector<int>dist(V,INT_MAX);
-        dist[S]=0;
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
-        pq.push({0,S});
-        while(!pq.empty()){
-            int topdist=pq.top().first;
-            int topnode=pq.top().second;
+    vector<int> shortestDistanceAfterQueries(int n, vector<vector<int>>& queries) {
+        vector<vector<int>>adj[600];
+        for(int i=0;i<n-1;i++)
+        {
+            vector<int>a;
+            a.push_back(i+1);
+            a.push_back(1);
+            adj[i].push_back(a);
+        }
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        vector<int>ans;
+        
+       
+        for(int i=0;i<queries.size();i++)
+        {
+             vector<int>a;
+            a.push_back(queries[i][1]);
+            a.push_back(1);
+            adj[queries[i][0]].push_back(a);
+            a.clear();
+            vector<int> dist(n,INT_MAX);
+             dist[0]=0;
+             pq.push({0,0});
+        while(pq.empty()==false)
+        {
+            int dis=pq.top().first;
+            int node=pq.top().second;
             pq.pop();
-            for(auto it:adj[topnode]){
-                int d=topdist+it[1];
-                if(d<dist[it[0]]){
-                    dist[it[0]]=d;
-                    pq.push({d,it[0]});
+            for (auto it:adj[node])
+            {
+                int edge_weight=it[1];
+                int adjNode=it[0];
+                if (dis+edge_weight<dist[adjNode])
+                {
+                    dist[adjNode]=dis+edge_weight;
+                    pq.push({dis+edge_weight,adjNode});
                 }
             }
         }
-        return dist[V-1];
-    }
-    vector<int> shortestDistanceAfterQueries(int n, vector<vector<int>>& queries) {
-        vector<vector<int>> adj[n];
-        for(int i=0;i<n-1;i++){
-            adj[i].push_back({i+1,1});
-        }
-        vector<int>ans;
-        for(int i=0;i<queries.size();i++){
-            adj[queries[i][0]].push_back({queries[i][1],1});
-            ans.push_back((dijkstra(n,adj,0)));
+        ans.push_back(dist[n-1]);
         }
         return ans;
+
     }
 };
