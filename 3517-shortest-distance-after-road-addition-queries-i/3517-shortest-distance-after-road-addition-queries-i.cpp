@@ -10,7 +10,7 @@ public:
             int topdist=pq.top().first;
             int topnode=pq.top().second;
             pq.pop();
-            for(auto &it:adj[topnode]){
+            for(auto it:adj[topnode]){
                 int d=topdist+it[1];
                 if(d<dist[it[0]]){
                     dist[it[0]]=d;
