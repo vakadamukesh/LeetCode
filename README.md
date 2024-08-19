@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/vakadamukesh/LeetCode/tree/master/0740-delete-and-earn) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/vakadamukesh/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/vakadamukesh/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vakadamukesh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vakadamukesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/vakadamukesh/LeetCode/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/vakadamukesh/LeetCode/tree/master/0778-reorganize-string) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/vakadamukesh/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vakadamukesh/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -530,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vakadamukesh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vakadamukesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/vakadamukesh/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
