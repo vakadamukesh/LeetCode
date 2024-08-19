@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/vakadamukesh/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/vakadamukesh/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vakadamukesh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vakadamukesh/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vakadamukesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vakadamukesh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/vakadamukesh/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/vakadamukesh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vakadamukesh/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -544,4 +546,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vakadamukesh/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vakadamukesh/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
