@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vakadamukesh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vakadamukesh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vakadamukesh/LeetCode/tree/master/0169-majority-element) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vakadamukesh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/vakadamukesh/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vakadamukesh/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vakadamukesh/LeetCode/tree/master/0062-unique-paths) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vakadamukesh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/vakadamukesh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/vakadamukesh/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/vakadamukesh/LeetCode/tree/master/0131-palindrome-partitioning) |
