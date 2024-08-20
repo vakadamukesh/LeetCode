@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vakadamukesh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vakadamukesh/LeetCode/tree/master/0055-jump-game) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vakadamukesh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/vakadamukesh/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vakadamukesh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/vakadamukesh/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/vakadamukesh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/vakadamukesh/LeetCode/tree/master/0402-remove-k-digits) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vakadamukesh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0047-permutations-ii) |
