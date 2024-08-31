@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/vakadamukesh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vakadamukesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vakadamukesh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vakadamukesh/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/vakadamukesh/LeetCode/tree/master/0778-reorganize-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/vakadamukesh/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Backtracking
 |  |
 | ------- |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Topological Sort
 |  |
 | ------- |
@@ -608,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
