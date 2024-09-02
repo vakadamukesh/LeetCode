@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/vakadamukesh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vakadamukesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/vakadamukesh/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/vakadamukesh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vakadamukesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vakadamukesh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
 ## Recursion
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vakadamukesh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vakadamukesh/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vakadamukesh/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Depth-First Search
 |  |
 | ------- |
