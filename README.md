@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vakadamukesh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/vakadamukesh/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/vakadamukesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/vakadamukesh/LeetCode/tree/master/0048-rotate-image) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vakadamukesh/LeetCode/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/vakadamukesh/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/vakadamukesh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vakadamukesh/LeetCode/tree/master/0127-word-ladder) |
