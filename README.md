@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vakadamukesh/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/vakadamukesh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vakadamukesh/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vakadamukesh/LeetCode/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vakadamukesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
