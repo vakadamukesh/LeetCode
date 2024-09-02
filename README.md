@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vakadamukesh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/vakadamukesh/LeetCode/tree/master/0684-redundant-connection) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
 ## Number Theory
 |  |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/vakadamukesh/LeetCode/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/vakadamukesh/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0684-redundant-connection](https://github.com/vakadamukesh/LeetCode/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vakadamukesh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -617,12 +619,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0684-redundant-connection](https://github.com/vakadamukesh/LeetCode/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vakadamukesh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
 ## Graph
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0684-redundant-connection](https://github.com/vakadamukesh/LeetCode/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vakadamukesh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
