@@ -31,8 +31,9 @@ public:
 
         while(curr != NULL && cnt < k) {
             next = curr->next;
+           
             curr->next = prev;
-            prev = curr;
+             prev = curr;
             curr = next;
             cnt++;
         }
