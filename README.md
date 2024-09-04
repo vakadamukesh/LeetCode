@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/vakadamukesh/LeetCode/tree/master/0740-delete-and-earn) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vakadamukesh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0836-race-car](https://github.com/vakadamukesh/LeetCode/tree/master/0836-race-car) |
 | [0972-knight-dialer](https://github.com/vakadamukesh/LeetCode/tree/master/0972-knight-dialer) |
 | [1290-make-array-strictly-increasing](https://github.com/vakadamukesh/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vakadamukesh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
