@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vakadamukesh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [1300-critical-connections-in-a-network](https://github.com/vakadamukesh/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
 |  |
 | ------- |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vakadamukesh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
+| [1300-critical-connections-in-a-network](https://github.com/vakadamukesh/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Topological Sort
 |  |
@@ -662,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vakadamukesh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/vakadamukesh/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
