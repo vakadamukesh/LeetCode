@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
+| [3544-count-almost-equal-pairs-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3544-count-almost-equal-pairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vakadamukesh/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3544-count-almost-equal-pairs-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3544-count-almost-equal-pairs-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vakadamukesh/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3544-count-almost-equal-pairs-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3544-count-almost-equal-pairs-ii) |
 ## Math
 |  |
 | ------- |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/vakadamukesh/LeetCode/tree/master/0778-reorganize-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3544-count-almost-equal-pairs-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3544-count-almost-equal-pairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -675,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/vakadamukesh/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Enumeration
+|  |
+| ------- |
+| [3544-count-almost-equal-pairs-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3544-count-almost-equal-pairs-ii) |
 <!---LeetCode Topics End-->
