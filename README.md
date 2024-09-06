@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vakadamukesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/vakadamukesh/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vakadamukesh/LeetCode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/vakadamukesh/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Number Theory
 |  |
 | ------- |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/vakadamukesh/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vakadamukesh/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vakadamukesh/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/vakadamukesh/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
 ## Memoization
 |  |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vakadamukesh/LeetCode/tree/master/0402-remove-k-digits) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/vakadamukesh/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vakadamukesh/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/vakadamukesh/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
