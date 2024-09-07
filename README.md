@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vakadamukesh/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vakadamukesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vakadamukesh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1758-distribute-repeating-integers](https://github.com/vakadamukesh/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1762-furthest-building-you-can-reach](https://github.com/vakadamukesh/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vakadamukesh/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1803-average-waiting-time](https://github.com/vakadamukesh/LeetCode/tree/master/1803-average-waiting-time) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vakadamukesh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vakadamukesh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1758-distribute-repeating-integers](https://github.com/vakadamukesh/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/vakadamukesh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vakadamukesh/LeetCode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 ## Two Pointers
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vakadamukesh/LeetCode/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/vakadamukesh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
+| [1758-distribute-repeating-integers](https://github.com/vakadamukesh/LeetCode/tree/master/1758-distribute-repeating-integers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -621,11 +624,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vakadamukesh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/vakadamukesh/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [1758-distribute-repeating-integers](https://github.com/vakadamukesh/LeetCode/tree/master/1758-distribute-repeating-integers) |
 ## Bitmask
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/vakadamukesh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
+| [1758-distribute-repeating-integers](https://github.com/vakadamukesh/LeetCode/tree/master/1758-distribute-repeating-integers) |
 ## Bucket Sort
 |  |
 | ------- |
