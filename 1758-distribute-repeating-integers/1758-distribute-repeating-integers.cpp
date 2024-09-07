@@ -27,7 +27,7 @@ public:
 
         for(int i=0;i<(1<<quantity.size());i++) {
             if(isValid(mask, i, freqNums[idx], quantity)) {
-                ans = ans || recurse(freqNums, mask | i, quantity, idx+1);
+                ans = ans |recurse(freqNums, mask | i, quantity, idx+1);
             }
         }
         return dp[mask][idx] = ans;
