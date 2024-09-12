@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/vakadamukesh/LeetCode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/vakadamukesh/LeetCode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/vakadamukesh/LeetCode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vakadamukesh/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vakadamukesh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/vakadamukesh/LeetCode/tree/master/0221-maximal-square) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/vakadamukesh/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/vakadamukesh/LeetCode/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/vakadamukesh/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vakadamukesh/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/vakadamukesh/LeetCode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vakadamukesh/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/vakadamukesh/LeetCode/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0264-ugly-number-ii) |
