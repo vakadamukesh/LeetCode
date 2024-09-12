@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/vakadamukesh/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
+| [2505-number-of-good-paths](https://github.com/vakadamukesh/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/vakadamukesh/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vakadamukesh/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [2505-number-of-good-paths](https://github.com/vakadamukesh/LeetCode/tree/master/2505-number-of-good-paths) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3544-count-almost-equal-pairs-ii) |
 ## Matrix
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/vakadamukesh/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vakadamukesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vakadamukesh/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2505-number-of-good-paths](https://github.com/vakadamukesh/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3544-count-almost-equal-pairs-ii) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vakadamukesh/LeetCode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/vakadamukesh/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
+| [2505-number-of-good-paths](https://github.com/vakadamukesh/LeetCode/tree/master/2505-number-of-good-paths) |
 ## Number Theory
 |  |
 | ------- |
@@ -670,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/vakadamukesh/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/vakadamukesh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2505-number-of-good-paths](https://github.com/vakadamukesh/LeetCode/tree/master/2505-number-of-good-paths) |
 ## Topological Sort
 |  |
 | ------- |
@@ -680,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vakadamukesh/LeetCode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
+| [2505-number-of-good-paths](https://github.com/vakadamukesh/LeetCode/tree/master/2505-number-of-good-paths) |
 ## Binary Tree
 |  |
 | ------- |
