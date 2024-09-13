@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vakadamukesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/vakadamukesh/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/vakadamukesh/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2505-number-of-good-paths](https://github.com/vakadamukesh/LeetCode/tree/master/2505-number-of-good-paths) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/vakadamukesh/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/vakadamukesh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vakadamukesh/LeetCode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vakadamukesh/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vakadamukesh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/vakadamukesh/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1290-make-array-strictly-increasing](https://github.com/vakadamukesh/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/0493-reverse-pairs) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Union Find
 |  |
 | ------- |
@@ -572,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
 | [1758-distribute-repeating-integers](https://github.com/vakadamukesh/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/vakadamukesh/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Combinatorics
 |  |
 | ------- |
@@ -646,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
 | [1758-distribute-repeating-integers](https://github.com/vakadamukesh/LeetCode/tree/master/1758-distribute-repeating-integers) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/vakadamukesh/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bucket Sort
 |  |
 | ------- |
