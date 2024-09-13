@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/vakadamukesh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vakadamukesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/vakadamukesh/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/vakadamukesh/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vakadamukesh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-distribute-repeating-integers](https://github.com/vakadamukesh/LeetCode/tree/master/1758-distribute-repeating-integers) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/vakadamukesh/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/vakadamukesh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vakadamukesh/LeetCode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 ## Two Pointers
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/vakadamukesh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
 | [1758-distribute-repeating-integers](https://github.com/vakadamukesh/LeetCode/tree/master/1758-distribute-repeating-integers) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/vakadamukesh/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 ## Combinatorics
 |  |
 | ------- |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/vakadamukesh/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
 | [1758-distribute-repeating-integers](https://github.com/vakadamukesh/LeetCode/tree/master/1758-distribute-repeating-integers) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/vakadamukesh/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 ## Bucket Sort
 |  |
 | ------- |
