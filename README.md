@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vakadamukesh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/vakadamukesh/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2701-subsequence-with-the-minimum-score](https://github.com/vakadamukesh/LeetCode/tree/master/2701-subsequence-with-the-minimum-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/vakadamukesh/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2701-subsequence-with-the-minimum-score](https://github.com/vakadamukesh/LeetCode/tree/master/2701-subsequence-with-the-minimum-score) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vakadamukesh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vakadamukesh/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vakadamukesh/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2701-subsequence-with-the-minimum-score](https://github.com/vakadamukesh/LeetCode/tree/master/2701-subsequence-with-the-minimum-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
