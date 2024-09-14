@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/vakadamukesh/LeetCode/tree/master/0740-delete-and-earn) |
+| [0794-swim-in-rising-water](https://github.com/vakadamukesh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0823-split-array-with-same-average](https://github.com/vakadamukesh/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vakadamukesh/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vakadamukesh/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0794-swim-in-rising-water](https://github.com/vakadamukesh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vakadamukesh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vakadamukesh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/vakadamukesh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0794-swim-in-rising-water](https://github.com/vakadamukesh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1290-make-array-strictly-increasing](https://github.com/vakadamukesh/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vakadamukesh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/vakadamukesh/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0794-swim-in-rising-water](https://github.com/vakadamukesh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vakadamukesh/LeetCode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/vakadamukesh/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/vakadamukesh/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0794-swim-in-rising-water](https://github.com/vakadamukesh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vakadamukesh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1493-frog-position-after-t-seconds](https://github.com/vakadamukesh/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
@@ -632,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/vakadamukesh/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/vakadamukesh/LeetCode/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/vakadamukesh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vakadamukesh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1762-furthest-building-you-can-reach](https://github.com/vakadamukesh/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vakadamukesh/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -682,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vakadamukesh/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/vakadamukesh/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/vakadamukesh/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0794-swim-in-rising-water](https://github.com/vakadamukesh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vakadamukesh/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/vakadamukesh/LeetCode/tree/master/0960-minimize-malware-spread) |
 | [1300-critical-connections-in-a-network](https://github.com/vakadamukesh/LeetCode/tree/master/1300-critical-connections-in-a-network) |
