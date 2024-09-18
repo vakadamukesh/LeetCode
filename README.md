@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/vakadamukesh/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/vakadamukesh/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vakadamukesh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/vakadamukesh/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vakadamukesh/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vakadamukesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/vakadamukesh/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vakadamukesh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vakadamukesh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/vakadamukesh/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vakadamukesh/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-distribute-repeating-integers](https://github.com/vakadamukesh/LeetCode/tree/master/1758-distribute-repeating-integers) |
