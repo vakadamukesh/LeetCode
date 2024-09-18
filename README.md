@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/vakadamukesh/LeetCode/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/vakadamukesh/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/vakadamukesh/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/vakadamukesh/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vakadamukesh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/vakadamukesh/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1471-maximum-students-taking-exam](https://github.com/vakadamukesh/LeetCode/tree/master/1471-maximum-students-taking-exam) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-race-car](https://github.com/vakadamukesh/LeetCode/tree/master/0836-race-car) |
 | [0972-knight-dialer](https://github.com/vakadamukesh/LeetCode/tree/master/0972-knight-dialer) |
 | [1290-make-array-strictly-increasing](https://github.com/vakadamukesh/LeetCode/tree/master/1290-make-array-strictly-increasing) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/vakadamukesh/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vakadamukesh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vakadamukesh/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/vakadamukesh/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vakadamukesh/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/vakadamukesh/LeetCode/tree/master/0778-reorganize-string) |
 | [1290-make-array-strictly-increasing](https://github.com/vakadamukesh/LeetCode/tree/master/1290-make-array-strictly-increasing) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/vakadamukesh/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vakadamukesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vakadamukesh/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2505-number-of-good-paths](https://github.com/vakadamukesh/LeetCode/tree/master/2505-number-of-good-paths) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vakadamukesh/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/vakadamukesh/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1290-make-array-strictly-increasing](https://github.com/vakadamukesh/LeetCode/tree/master/1290-make-array-strictly-increasing) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/vakadamukesh/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vakadamukesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/vakadamukesh/LeetCode/tree/master/2701-subsequence-with-the-minimum-score) |
