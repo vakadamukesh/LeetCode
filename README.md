@@ -748,4 +748,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3544-count-almost-equal-pairs-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3544-count-almost-equal-pairs-ii) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/vakadamukesh/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
