@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/vakadamukesh/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/vakadamukesh/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2601-number-of-great-partitions](https://github.com/vakadamukesh/LeetCode/tree/master/2601-number-of-great-partitions) |
 | [2846-robot-collisions](https://github.com/vakadamukesh/LeetCode/tree/master/2846-robot-collisions) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/vakadamukesh/LeetCode/tree/master/3544-count-almost-equal-pairs-ii) |
 ## Hash Table
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/vakadamukesh/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/vakadamukesh/LeetCode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vakadamukesh/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2601-number-of-great-partitions](https://github.com/vakadamukesh/LeetCode/tree/master/2601-number-of-great-partitions) |
 ## Two Pointers
 |  |
 | ------- |
